@@ -7,6 +7,7 @@ const Logo = () => {
       height={130}
       alt="logo"
       src="/logo.svg"
+      priority={true}
     />
   )
 }
